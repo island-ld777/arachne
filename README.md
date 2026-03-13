@@ -1,4 +1,4 @@
-# cpp-crawler
+# Arachne
 
 A small C++ web crawler project built as a learning exercise.
 
